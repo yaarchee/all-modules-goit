@@ -1,5 +1,4 @@
-- ### HTML/CSS:
-  - [Module 01-02](https://yaarchee.github.io/module-02/)
+- ### HTML/CSS: 
   - [Module 03](https://yaarchee.github.io/module-03/)
   - [Module 04](https://yaarchee.github.io/module-04/)
   - [Module 05](https://yaarchee.github.io/module-05/)
