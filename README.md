@@ -8,3 +8,16 @@
   - [Module 09](https://yaarchee.github.io/module-09/)
   - [Module 10](https://yaarchee.github.io/module-10/)
   - [Module 11](https://yaarchee.github.io/module-11/)
+  
+- ### javaScript: 
+  - [Module 01](https://yaarchee.github.io/module-js-01/)
+  - [Module 01](https://yaarchee.github.io/module-js-02/)
+  - [Module 01](https://yaarchee.github.io/module-js-03/)
+  - [Module 01](https://yaarchee.github.io/module-js-04/)
+  - [Module 01](https://yaarchee.github.io/module-js-05/)
+  - [Module 01](https://yaarchee.github.io/module-js-06/)
+  - [Module 01](https://yaarchee.github.io/module-js-07/)
+  - [Module 01](https://yaarchee.github.io/module-js-08/)
+  - [Module 01](https://yaarchee.github.io/module-js-10/)
+  - [Module 01](https://yaarchee.github.io/module-js-10/)
+
