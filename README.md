@@ -20,4 +20,5 @@
   - [Module 08](https://yaarchee.github.io/module-js-08/)
   - [Module 10](https://yaarchee.github.io/module-js-10/)
   - [Module 11](https://yaarchee.github.io/module-js-11/)
+  - [Module 12](https://yaarchee.github.io/module-js-12/)
 
